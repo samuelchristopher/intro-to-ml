@@ -1,4 +1,4 @@
 intro to machine learning
 ==============
 
-Practice makes perfetc
+Practice makes perfect
